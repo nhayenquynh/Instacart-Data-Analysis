@@ -1,10 +1,8 @@
 # Sprint_2_project
 
 ## Instacart Data Analysis
-<img width="844" alt="image" src="https://github.com/nhayenquynh/Instacart-Data-Analysis/assets/125513684/1b59e5e4-b55b-41fb-98ee-e7e4c12179f5">
 
-
-# Project description
+# Project description:
 For this project, you’ll work with data from Instacart.
 Instacart is a grocery delivery platform where customers can place a grocery order and have it delivered to them, similar to how Uber Eats and Door Dash work. This particular dataset was publicly released by Instacart in 2017 for a Kaggle competition.
 
@@ -12,6 +10,10 @@ The dataset we've provided for you has been modified from the original. We've re
 
 Your mission is to clean up the data and prepare a report that gives insight into the shopping habits of Instacart customers. After answering each question, write a brief explanation of your results in a markdown cell of your Jupyter notebook.
 This project will require you to make plots that communicate your results. Make sure that any plots you create have a title, labeled axes, and a legend if necessary; and include plt.show() at the end of each cell with a plot.
+
+# Plots: 
+
+<img width="844" alt="image" src="https://github.com/nhayenquynh/Instacart-Data-Analysis/assets/125513684/b2c25d3f-e860-4616-ad58-be8cae35804d">
 
 # Questions to be answered: 
 Must complete all to pass
