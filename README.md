@@ -11,10 +11,6 @@ The dataset we've provided for you has been modified from the original. We've re
 Your mission is to clean up the data and prepare a report that gives insight into the shopping habits of Instacart customers. After answering each question, write a brief explanation of your results in a markdown cell of your Jupyter notebook.
 This project will require you to make plots that communicate your results. Make sure that any plots you create have a title, labeled axes, and a legend if necessary; and include plt.show() at the end of each cell with a plot.
 
-# Plots: 
-
-<img width="844" alt="image" src="https://github.com/nhayenquynh/Instacart-Data-Analysis/assets/125513684/b2c25d3f-e860-4616-ad58-be8cae35804d">
-
 # Questions to be answered: 
 Must complete all to pass
 1. Is there a difference in 'order_hour_of_day' distributions on Wednesdays and Saturdays? Plot the histograms for both days on the same plot and describe the differences that you see.
@@ -27,3 +23,7 @@ Must complete at least two to pass
 3. For each product, what proportion of its orders are reorders (create a table with columns for the product ID, product name, and reorder proportion)?
 4. For each customer, what proportion of their products ordered are reorders?
 5. What are the top 20 items that people put in their carts first (display the product IDs, product names, and number of times they were the first item added to the cart)?
+
+# Generated Plots: 
+<img width="844" alt="image" src="https://github.com/nhayenquynh/Instacart-Data-Analysis/assets/125513684/b2c25d3f-e860-4616-ad58-be8cae35804d">
+
