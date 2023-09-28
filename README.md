@@ -1,6 +1,8 @@
 # Sprint_2_project
 
 ## Instacart Data Analysis
+<img width="844" alt="image" src="https://github.com/nhayenquynh/Instacart-Data-Analysis/assets/125513684/1b59e5e4-b55b-41fb-98ee-e7e4c12179f5">
+
 
 # Project description
 For this project, you’ll work with data from Instacart.
